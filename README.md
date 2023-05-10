@@ -6,4 +6,13 @@ Le but de ce stage est de comprendre et mettre en pratique l'apprentissage stati
   - perceptron
   - neurone logistique (TBD)
 
-En
+La mise en place de ces algorithmes demandera de pratique le langage **python** pour 
+  - charger les données
+  - générer des données aléatoirement
+  - calculer et visualiser des statistiques sur ces données
+  - utiliser des librairies de classification existantes (sklearn)
+  - implémenter les algorithmes de classification
+  - entrainer et tester ces algorithmes sur les données chargées ou générées
+  - comparer les resultats avec ceux des librairies
+  
+---
