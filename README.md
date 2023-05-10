@@ -1,5 +1,5 @@
-Stage Lina Alkaabi
-Departement d'Informatique
-Université de Genève
-Avril-Mai 2023
+ Stage Lina Alkaabi
+ Departement d'Informatique
+ Université de Genève
+ Avril-Mai 2023
 
